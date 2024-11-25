@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on [E-commerce clothing store](https://ade-clothing.netlify.app/)
 
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **imoleadebanjo97@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wPBzSK60SqKX4xbP-hZQyz9yC0-TJTkW/view](https://drive.google.com/file/d/1wPBzSK60SqKX4xbP-hZQyz9yC0-TJTkW/view)
