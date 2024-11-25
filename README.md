@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Imoleayo Adebanjo</h1>
-<h3 align="center">A lovable Software Developer</h3>
+
 
 <p align="left"> <a href="https://twitter.com/1mole_ayo" target="blank"><img src="https://img.shields.io/twitter/follow/1mole_ayo?logo=twitter&style=for-the-badge" alt="1mole_ayo" /></a> </p>
 
