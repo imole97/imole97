@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/1mole_ayo" target="blank"><img src="https://img.shields.io/twitter/follow/1mole_ayo?logo=twitter&style=for-the-badge" alt="1mole_ayo" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce clothing store](https://ade-clothing.netlify.app/)
 
 - 📫 How to reach me **imoleadebanjo97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wPBzSK60SqKX4xbP-hZQyz9yC0-TJTkW/view](https://drive.google.com/file/d/1wPBzSK60SqKX4xbP-hZQyz9yC0-TJTkW/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ob47DE0qI4IWL69fARbMir6C93JDLwe8/view?usp=sharing)
 
 - ⚡ Fun fact **I can draw and play soccer 😉**
 
